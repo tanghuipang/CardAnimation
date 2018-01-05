@@ -1,0 +1,4 @@
+# CardAnimation
+用于在Unity中制作类似炉石传说金卡效果的动态卡牌。
+
+由于NGUI的UITexture无法使用Animation来控制，添加了一个可以用曲线简单控制材质属性的控制器
